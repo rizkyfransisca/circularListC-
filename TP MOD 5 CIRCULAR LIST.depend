@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582482546 source:d:\kumpulan tugas rizky\struktur data\tp mod 5 circular list\cdll.cpp
+	"cdll.h"
+	<iostream>
+
+1582482255 d:\kumpulan tugas rizky\struktur data\tp mod 5 circular list\cdll.h
+	<iostream>
+
+1582482540 source:d:\kumpulan tugas rizky\struktur data\tp mod 5 circular list\main.cpp
+	"cdll.h"
+	<iostream>
+
